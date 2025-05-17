@@ -1,3 +1,5 @@
+Video: https://youtu.be/vUudRtJVWcY 
+
 Português
 
 **Assistente de intérprete médico AI (EN-ES)**
