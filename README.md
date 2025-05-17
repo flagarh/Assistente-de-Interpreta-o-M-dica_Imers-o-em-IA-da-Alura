@@ -12,6 +12,7 @@ Español
 Una herramienta de inteligencia artificial diseñada para asistir a intérpretes médicos proporcionando traducciones precisas y sugerencias de vocabulario especializado en inglés y español. Ideal para agilizar y mejorar la calidad de la interpretación consecutiva en el ámbito médico.
 
 —-------------------------------------------------------------------
+
 English
 
 **AI Medical Interpreter Assistant (EN-ES)**
@@ -36,6 +37,7 @@ Este projeto oferece um assistente inteligente baseado em inteligência artifici
 **Problema que ele resolve:** A dificuldade de encontrar traduções precisas no contexto médico em mecanismos de busca não especializados e a necessidade de acessar rapidamente o vocabulário médico relevante para uma interpretação fluente e precisa.
 
 —--------------------------------------------------------------------------------------------------------------
+
 Español
 
 **AI Medical Interpreter Assistant (EN-ES): Potenciando la Interpretación Médica** 
@@ -52,6 +54,7 @@ Este proyecto ofrece un asistente inteligente basado en inteligencia artificial 
 **Problema que resuelve:** La dificultad de encontrar traducciones precisas en el contexto médico en motores de búsqueda no especializados y la necesidad de acceder rápidamente a vocabulario médico relevante para una interpretación fluida y precisa.
 
 —-------------------------------------------------------------------------------------------------------------------
+
 English
 
 **AI Medical Interpreter Assistant (EN-ES): Empowering Medical Interpreting**
